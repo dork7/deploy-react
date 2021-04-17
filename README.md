@@ -1,3 +1,3 @@
 # portfolio
 
-https://dork7.github.io/project
+https://dork7.github.io/portfolio/
